@@ -1,6 +1,6 @@
 # Flipper WebSerial Library
 
-A JavaScript library for communicating with Flipper Zero CLI devices via Web Serial.
+A JavaScript library for communicating with the Flipper Zero CLI via Web Serial.
 > This project is a work in progress and subject to large changes
 
 ## Documentation
