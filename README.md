@@ -9,8 +9,8 @@ For API documentation, please see [API.md](API.md).
 ## Browser Compatibility
 
 This library uses the Web Serial API, which is currently supported in:
+
 - Chrome/Chromium-based browsers (version 89 or later)
-- Edge (version 89 or later)
 
 ## Contributing
 
